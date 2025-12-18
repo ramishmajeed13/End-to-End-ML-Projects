@@ -14,7 +14,7 @@
     - *Linear Regression:* $R^2$ Score = 0.57 (Underfitted)
     - *Random Forest:* $R^2$ Score = 0.80 (Best Performer)
 - **Key Insight:** The relationship between income and housing price is non-linear. The Random Forest model captured spatial patterns (clustering around the coast) that the linear model missed.
-- **Visuals:** See the `notebooks` folder for heatmaps and "Actual vs Predicted" plots.
+- **Visuals:** See the uploaded files for heatmaps and "Actual vs Predicted" plots.
 
 ---
 *Author: Ramish Majeed*
